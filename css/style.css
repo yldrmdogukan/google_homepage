@@ -187,6 +187,7 @@ div>a>button {
 
 .footerli {
     float: left;
+    list-style-type: none;
 }
 
 .footerli a {
